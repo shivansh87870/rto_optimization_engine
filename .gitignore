@@ -1,0 +1,7 @@
+# Ignore the massive dataset so your GitHub push doesn't crash
+data/raw_logistics_data.csv
+
+# Ignore local python virtual environments or cache files
+rto_env/
+__pycache__/
+.ipynb_checkpoints/

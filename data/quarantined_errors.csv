@@ -1,0 +1,5 @@
+delivery_id,delivery_partner,region,distance_km,package_weight_kg,delivery_cost,weather_condition,delivery_mode,delivery_status
+TXN004,Shadowfax,East,85.0,-0.5,90.0,Clear,Surface,Delivered
+TXN005,Delhivery,North,-50.0,2.1,180.0,Fog,Surface,Delayed
+TXN007,XpressBees,South,890.4,1.5,0.0,Rain,Surface,Failed
+TXN011,XpressBees,West,120.3,0.0,95.0,Clear,Surface,Delayed
